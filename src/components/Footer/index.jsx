@@ -29,7 +29,7 @@ export default () => {
               <div className={styles.textBox}>
                 <p className={styles.subtit}>“后海咖啡”</p>
                 <p className={styles.text}>
-                  我愿与您分享我的生活，您愿意看么？
+                  我愿与您分享我的生活，您愿意听么？
                 </p>
               </div>
             </div>
@@ -59,7 +59,7 @@ export default () => {
               <div className={styles.textBox}>
                 <p className={styles.subtit}>“后海商城”</p>
                 <p className={styles.text}>
-                  这里是我最喜欢的，也喜欢有您喜欢的!
+                  这里是我最喜欢的，也希望有您喜欢的!
                 </p>
               </div>
             </div>

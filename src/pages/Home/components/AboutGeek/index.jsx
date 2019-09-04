@@ -21,17 +21,16 @@ export default () => (
           >
             <div className={styles.itemTitle}>北京的后海</div>
             <div className={styles.itemDesc}>
-              “后海”是北京文艺的名片。来到这里你可以找一家小酒吧或者小清吧坐一坐，可以点上一杯鸡尾酒，听着小哥哥小姐姐唱民谣，
-              和同龄人一起释放生活的压力。也可以沿着河边吹着河风，远离都市的喧嚣，感受繁华的首都之后的少有静谧。
+              “后海”北京文艺青年的名片。一杯清酒就民谣，和同龄人一起释放青春的活力。一缕夏日的微风，远离都市喧嚣享受繁华背后的少有宁静。
             </div>
           </div>
           <div
             key="introTwo"
             className={styles.introTwo}
           >
-            <div className={styles.itemTitle}>我的后海</div>
+            <div className={styles.itemTitle}>我是后海</div>
             <div className={styles.itemDesc}>
-              我的“后海”前面还有个——饶，我叫“饶后海”，一个爱玩的资深技术宅男。往下翻你会了解我更多...
+              我叫“饶后海”，一个贪玩的技术宅男，我为我自己代言。往下翻你会了解我更多...
             </div>
           </div>
         </QueueAnim>

@@ -1,7 +1,7 @@
 const MOCK_DATA = [
   {
     id: 1,
-    title: '8分钟成为Contributor',
+    title: '在“后海咖啡”公众号里，我愿与您分享我的生活，您愿意听么？',
   },
   {
     id: 2,
